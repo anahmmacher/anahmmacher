@@ -1,6 +1,8 @@
 # About Me
 
-Hello, I'm Arthur Nahmmacher, a data analyst with experience in software development. I completed the Google Data Analytics certification program via Coursera and have some software development experience from my time at the App Academy coding bootcamp.
+Hello, I'm Arthur Nahmmacher, a data analyst with experience in software development. I completed the Google Data Analytics certification program via Coursera and have some software development experience from my time at the App Academy coding bootcamp. 
+
+My portfolio can be found [here](https://anahmmacher.github.io/portfolio/)
 
 ## Skills
 
@@ -34,6 +36,8 @@ I'm particularly proud of my Capstone project case study involving a fictional b
 [Cyclistic Marketing Study: Understading Customer Behavior Through Analysing Rider Data](https://anahmmacher.github.io/cyclistic_capstone_project/)
 
 [That's a Lot of Cups: Alcohol Consumption by Country](https://anahmmacher.github.io/Javascript_Project_12_27_21/)
+
+[What's in a Name: Looking at Naming Details and Trends Over Time](https://anahmmacher.github.io/whats_in_a_name/)
 
 
 ## Contact Me
