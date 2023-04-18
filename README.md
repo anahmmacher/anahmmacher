@@ -2,7 +2,7 @@
 
 Hello, I'm Arthur Nahmmacher, a data analyst with experience in software development. I completed the Google Data Analytics certification program via Coursera and have some software development experience from my time at the App Academy coding bootcamp. 
 
-My portfolio can be found [here](https://anahmmacher.github.io/portfolio/)
+My portfolio can be found [here.](https://anahmmacher.github.io/portfolio/)
 
 ## Skills
 
